@@ -1,5 +1,5 @@
 # 💫 About Me:
-Civil Engineer turned to Full Stack Developer , Technology Lover
+Full Stack Developer
 
 
 # 💻 Tech Stack:
